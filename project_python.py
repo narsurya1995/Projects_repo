@@ -1,3 +1,4 @@
+# python project on slot machine
 
 import random
 
